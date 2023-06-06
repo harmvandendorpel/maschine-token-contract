@@ -1,0 +1,8 @@
+deployments
+node_modules/
+cache/
+build/
+coverage*
+.env
+artifacts
+typechain
